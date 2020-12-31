@@ -7,6 +7,8 @@ InstaDaily is your daily dose of happiness, motivation, love, comedy, fetched st
   - Highly curated content (Because I want the content to be as good as you <3)
   - No limit on usage (Yes, its free. Always!)
   - Secure (I will not steal your password. Ever. God Promise.)
+  
+![LOGO](https://i.ibb.co/RvfZ7dt/Webp-net-resizeimage.jpg)
 
 # Features
 
