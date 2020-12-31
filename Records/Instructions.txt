@@ -1,0 +1,7 @@
+In this folder all your previous results records are stored. So I request not to delete any file here.
+
+They require very minimal space as they are using a highly optimized algorithm to store records.
+
+Records are also not accessible by humans directly and can only be interpreted by InstaDaily.
+
+Request you not to delete as it may cause InstaDaily to show you previously shown images.

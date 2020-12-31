@@ -1,0 +1,42 @@
+Username: 
+Password: 
+
+
+****************************************** General Instructions ******************************************
+
+Firstly, thank you for downloading this repo. I would really love a star from you. 
+
+Now you have to enter your Instagram's username and password above for the scraper to work properly.
+
+Instagram's internal policies don't allow anonymous user to browse indefinitely. The scraper promises to
+deliver you the best of the content and hence it'll need to work in logged-in state to browse thousands
+of post and give you the best of the posts available for a hashtag. 
+
+Also, it's advisable not to use Instagram on your phone or elsewhere with same ID when using the scraper. 
+It might cause a crash to program. When not using the program, you are free to use.
+
+Rest be assured, your passwords are safe and aren't used in any third party sites.
+
+
+
+
+
+************************************* Steps to enter username and password *******************************
+
+Enter your username and password without any quotes after the colon above. 
+
+DO NOT ERASE ANYTHING IN THIS FILE.
+DO NOT ERASE "Username:" and "Password:" written on top.
+DO LEAVE A SINGLE SPACE AFTER COLON
+
+Just leave a space after a colon in both username and password and enter yours. 
+I repeat, without any quotes.
+
+Example,
+
+The top two liness should look like this.
+
+
+
+Username: admin
+Password: password
