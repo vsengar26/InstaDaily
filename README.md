@@ -39,7 +39,7 @@ Step1: Clone the repo
 ```sh
 #For Git Bash Users:
 $ cd "Path you want to clone this repo to"
-$ git clone https://github.com/vsengar26/InstaDaily
+$ git clone https://github.com/vsengar26/InstaDaily.git
 ```
 ```sh
 #For Non Git Bash Users:
