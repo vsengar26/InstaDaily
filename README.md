@@ -114,7 +114,9 @@ Step2: To move on to the next image, simply close you picture browser's window i
 
 > The images fetched are downloaded into your system's internal storage.
 
-To free up the space: Double click on the **Click_To_Clean** file. This will remove all the previously downloaded images but will not affect the records and, you wont see the same image again, as promised :)
+Firstle, Edit the **Click_To_Clean** file using notepad and add the paths required in the space provided.
+
+Now to free up the space: Double click on the **Click_To_Clean** file. This will remove all the previously downloaded images but will not affect the records and, you wont see the same image again, as promised :)
 
 
 

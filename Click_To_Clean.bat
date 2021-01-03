@@ -5,6 +5,6 @@ echo.
 echo Cleaning you cache files . . . . . . . . . .
 echo.
 echo.
-SET PATH=C:\ML\Insta;C:\Python38
+SET PATH="Enter the path containing main.py file here";"Enter path to python.exe here"
 python cleaner.py
 PAUSE
